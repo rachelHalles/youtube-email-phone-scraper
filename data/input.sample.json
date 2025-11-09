@@ -1,0 +1,14 @@
+{
+  "keyword": "digital marketing",
+  "domainemail": [
+    "@gmail.com",
+    "@yahoo.com"
+  ],
+  "max_results": 10,
+  "export_formats": [
+    "json",
+    "csv",
+    "xml",
+    "html"
+  ]
+}
