@@ -1,0 +1,4 @@
+{
+  "youtube_api_key": "YOUR_YOUTUBE_DATA_API_KEY_HERE",
+  "default_output_dir": "data"
+}
